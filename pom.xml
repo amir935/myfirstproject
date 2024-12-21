@@ -27,6 +27,7 @@
         <business>Evangadi</business>
         <vcore>Micro</vcore>
         <workers>1</workers>
+        <region>us-east-1</region>
     </properties>
 
     <build>
